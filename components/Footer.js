@@ -29,7 +29,7 @@ export default function Footer() {
                 <a href="#">FAQ</a>
               </li>
               <li>
-                <a href="#">shipping</a>
+                <a href="#">crash- course</a>
               </li>
               <li>
                 <a href="#">returns</a>
@@ -43,19 +43,19 @@ export default function Footer() {
             </ul>
           </div>
           <div class="footer-col">
-            <h4>online shop</h4>
+            <h4>UI Blog</h4>
             <ul>
               <li>
-                <a href="#">watch</a>
+                <a href="#">Abdob XD</a>
               </li>
               <li>
-                <a href="#">bag</a>
+                <a href="#">Figma</a>
               </li>
               <li>
-                <a href="#">shoes</a>
+                <a href="#">UI/UX</a>
               </li>
               <li>
-                <a href="#">dress</a>
+                <a href="#">React</a>
               </li>
             </ul>
           </div>

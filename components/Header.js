@@ -37,7 +37,7 @@ export default function Header() {
       </ul>
     </navbar>
   );
-  let bar = document.querySelector(".bars"),
+  const bar = document.querySelector(".bars"),
     navItem = document.querySelector(".nav-items");
 
   bar.addEventListener("click", () => {
